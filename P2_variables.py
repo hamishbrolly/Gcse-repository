@@ -1,0 +1,8 @@
+animal1 = input("Give me an animal name")
+animal2 = input("Another")
+animal3 = input("Last one")
+print(animal1)
+print()
+print(animal2)
+print()
+print(animal3)
