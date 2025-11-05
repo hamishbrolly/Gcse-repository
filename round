@@ -1,0 +1,3 @@
+decimal = float(input())
+print(str(decimal))
+print(round(decimal))
